@@ -4,7 +4,7 @@ import { Inter, Poppins } from 'next/font/google'
 import Script from 'next/script'
 import './globals.css'
 
-const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID
+const GA_MEASUREMENT_ID = 'G-WTKHNTVDS8'
 
 const inter = Inter({
   variable: '--font-inter',
